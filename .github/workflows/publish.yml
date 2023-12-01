@@ -29,7 +29,7 @@ jobs:
 
             gsed -i 's|gragonfly|dragonfly|' ppkg
 
-            run ./ppkg setup
+            run ./ppkg setup --use-system-package-manager
             run ./ppkg update
             run ./ppkg install "$PKG_NAMES" --link-type=static-full
 
