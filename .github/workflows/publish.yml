@@ -27,7 +27,7 @@ jobs:
             run curl -LO https://raw.githubusercontent.com/leleliu008/ppkg/master/ppkg
             run chmod a+x ppkg
 
-            sed -i 's|gragonfly|dragonfly|' ppkg
+            gsed -i 's|gragonfly|dragonfly|' ppkg
 
             run ./ppkg setup
             run ./ppkg update
