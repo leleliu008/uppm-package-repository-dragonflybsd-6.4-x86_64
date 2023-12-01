@@ -33,7 +33,7 @@ jobs:
 
             for PKG_NAME in $(./ppkg ls-installed)
             do
-                run ./ppkg pack "$PKG_NAME"
+              run ./ppkg pack "$PKG_NAME"
             done
 
             date +%Y.%m.%d > ts.txt
@@ -44,17 +44,17 @@ jobs:
 
             for PACKAGE_NAME in $(./ppkg ls-installed)
             do
-                PACKAGE_SUMMARY="$(./ppkg receipt "$PACKAGE_NAME" summary)"
-                PACKAGE_WEB_URL="$(./ppkg receipt "$PACKAGE_NAME" web-url)"
-                PACKAGE_VERSION="$(./ppkg receipt "$PACKAGE_NAME" version)"
+              PACKAGE_SUMMARY="$(./ppkg receipt "$PACKAGE_NAME" summary)"
+              PACKAGE_WEB_URL="$(./ppkg receipt "$PACKAGE_NAME" web-url)"
+              PACKAGE_VERSION="$(./ppkg receipt "$PACKAGE_NAME" version)"
 
-                PACKAGE_BIN_FILENAME="$PACKAGE_NAME-$PACKAGE_VERSION-dragonflybsd-6.4-x86_64.tar.xz"
+              PACKAGE_BIN_FILENAME="$PACKAGE_NAME-$PACKAGE_VERSION-dragonflybsd-6.4-x86_64.tar.xz"
 
-                PACKAGE_BIN_SHA=$(~/.uppm/installed/coreutils/bin/sha256sum "$PACKAGE_BIN_FILENAME" | cut -d ' ' -f1)
+              PACKAGE_BIN_SHA=$(~/.uppm/installed/coreutils/bin/sha256sum "$PACKAGE_BIN_FILENAME" | cut -d ' ' -f1)
 
-                PACKAGE_BIN_URL="https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/${TAGNAME}/${PACKAGE_BIN_FILENAME}"
+              PACKAGE_BIN_URL="https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/${TAGNAME}/${PACKAGE_BIN_FILENAME}"
 
-                cat > "formula/$PACKAGE_NAME.yml" <<EOF
+              cat > "formula/$PACKAGE_NAME.yml" <<EOF
             summary: $PACKAGE_SUMMARY
             webpage: $PACKAGE_WEB_URL
             version: $PACKAGE_VERSION
