@@ -20,7 +20,7 @@ jobs:
           run: |
             PKG_NAMES='bash bison bzip2 coreutils cppcheck curlie curl darkhttpd diffutils dos2unix ed file findutils flex fzf gawk gettext gm4 gmake gnupg git gogs gotty gperf grep gsed gtar gzip hugo jq libarchive lzip lz4 mediainfo mpg123 nasm ninja openssl patchelf patch pkgconf pkg-config putty pigz qpdf re2c rtmpdump sqlite3 svn-lite swig tcpdump tig tmux tree uctags unrar unzip uppm xxd xz yasm yq zopfli zip p7zip zstd zsync base16 base64 sysinfo easyutils'
 
-            export HOME='home/vagrant'
+            export HOME='/home/vagrant'
 
             run cd "$HOME"
 
