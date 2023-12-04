@@ -1,0 +1,5 @@
+summary: C library of Git core methods that is re-entrant and linkable
+webpage: https://libgit2.github.com
+version: 1.7.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/libgit2-1.7.1-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 7578a75c48073537c952f90bf6e192210dbdf1c06a880093ee24cb4f44c924b3

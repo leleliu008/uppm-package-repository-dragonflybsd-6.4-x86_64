@@ -1,0 +1,5 @@
+summary: Cryptographic library based on the code from GnuPG
+webpage: https://www.gnupg.org/related_software/libgcrypt/
+version: 1.10.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/libgcrypt-1.10.2-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: b47d52de39b3d2379cb9d360cf8e232a8876b0dbbddd60d96c339dacb4f35c27

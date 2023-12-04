@@ -1,0 +1,5 @@
+summary: GNU File, Shell, and Text utilities
+webpage: https://www.gnu.org/software/coreutils
+version: 9.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/coreutils-9.4-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: a8d390219f8cb1a2fb5f6dfa814d42382ce4ca8ce53b04312af523f52a725bdd

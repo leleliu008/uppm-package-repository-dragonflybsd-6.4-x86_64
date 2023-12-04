@@ -1,0 +1,5 @@
+summary: C XSLT library for GNOME
+webpage: http://xmlsoft.org/XSLT
+version: 1.1.37
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/xsltproc-1.1.37-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: df04c3730d9dfd8b60228c519ff3cc3e80304b3193498d69440ab419fc3bb49a

@@ -1,0 +1,5 @@
+summary: Assuan IPC Library
+webpage: https://www.gnupg.org/related_software/libassuan
+version: 2.5.6
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/libassuan-2.5.6-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 101a9dcb4dba6ea452a47cea943d5341e9bfc580b4d0333d9412860394f6507e

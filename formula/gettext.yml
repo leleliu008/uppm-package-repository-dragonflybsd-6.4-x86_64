@@ -1,0 +1,5 @@
+summary: GNU internationalization (i18n) and localization (l10n) library
+webpage: https://www.gnu.org/software/gettext
+version: 0.22.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/gettext-0.22.4-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 8700d478e3b97e39a6f036694592bf8091ded0a284bca850967e419ba486e5aa

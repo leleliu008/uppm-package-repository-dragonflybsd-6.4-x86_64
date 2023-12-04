@@ -1,0 +1,5 @@
+summary: a command-line tool and C++ library that performs content-preserving transformations on PDF files
+webpage: https://github.com/qpdf/qpdf
+version: 11.6.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/qpdf-11.6.3-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: aed2cc0656a29b10f5e95e40cf9242a5e81b44b2bf850714d8b351f03aafbafe

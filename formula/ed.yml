@@ -1,0 +1,5 @@
+summary: Classic UNIX line editor
+webpage: https://www.gnu.org/software/ed/ed.html
+version: 1.19
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/ed-1.19-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 15e9a4ae39258529785168a1dbc729a56562f339647e5696a49bf3378d084cab

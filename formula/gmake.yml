@@ -1,0 +1,5 @@
+summary: Utility for directing compilation
+webpage: https://www.gnu.org/software/make
+version: 4.4.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/gmake-4.4.1-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 510486b49f4e70c8307995c4c7dd3bf55eba14a44d355d1de8d906326c4903ae

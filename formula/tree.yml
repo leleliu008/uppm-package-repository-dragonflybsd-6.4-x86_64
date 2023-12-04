@@ -1,0 +1,5 @@
+summary: Display directories as trees (with optional color/HTML output)
+webpage: http://mama.indstate.edu/users/ice/tree
+version: 2.1.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/tree-2.1.1-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 8a01ccf5be9f259e2d48fd1e24b85fa0504d5f8b504517636a8237c41bce3685

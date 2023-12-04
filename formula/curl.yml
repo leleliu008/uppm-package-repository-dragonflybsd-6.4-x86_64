@@ -1,0 +1,5 @@
+summary: Get a file from an HTTP, HTTPS or FTP server
+webpage: https://curl.haxx.se/
+version: 8.3.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/curl-8.3.0-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 41c0d07f12b53f199ab528d2c3842f20218b0b35efae03830c4433f7ac8662c8

@@ -1,0 +1,5 @@
+summary: Library to determine file types
+webpage: https://www.darwinsys.com/file
+version: 5.44
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/libmagic-5.44-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 0903ce11af4bc6db711c2b2d1434fe06c292e8ecadb68cf63797cefbb41b711e

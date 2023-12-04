@@ -1,0 +1,5 @@
+summary: JPEG image codec that aids compression and decompression
+webpage: https://www.libjpeg-turbo.org
+version: 2.1.5.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/libjpeg-turbo-2.1.5.1-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: fc82b6cf6ad026558fe660b7db722b649fbc1f12055bbcd7da8360a1901c7514

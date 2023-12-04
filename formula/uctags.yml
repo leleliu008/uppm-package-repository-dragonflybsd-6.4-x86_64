@@ -1,0 +1,5 @@
+summary: Maintained ctags implementation
+webpage: https://ctags.io/
+version: 2023.12.04
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/uctags-2023.12.04-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: ad86b262b2659324d25e695f5a6c077ff9cbc0529478e6680496c914b5701657

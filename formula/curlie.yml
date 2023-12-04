@@ -1,0 +1,5 @@
+summary: Power of curl, ease of use of httpie
+webpage: https://curlie.io
+version: 1.7.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/curlie-1.7.2-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: a8a8d20b3bcccbd8c6ab4ac70418f4f71c242e93f053c4dea9e4eba7dd9fb38b

@@ -1,0 +1,5 @@
+summary: A small, fast, self-contained, high-reliability, full-featured, SQL database engine written in C
+webpage: https://www.sqlite.org/
+version: 3.44.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/sqlite3-3.44.0-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 7eef6d61345c289ec0febd9b7b422a5d5a5fd1edb3dda273bd13589d173656de

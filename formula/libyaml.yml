@@ -1,0 +1,5 @@
+summary: YAML Parser
+webpage: https://github.com/yaml/libyaml
+version: 0.2.5
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/libyaml-0.2.5-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: cf0e0512a4a1afeb4df225b89e57c05c684d4aabc564d637ab809403f3fc0fcb

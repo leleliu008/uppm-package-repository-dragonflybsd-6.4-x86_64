@@ -1,0 +1,5 @@
+summary: Zstandard is a real-time compression algorithm
+webpage: https://facebook.github.io/zstd
+version: 1.5.5
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/zstd-1.5.5-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 7e69476e26d662c89e88a5cae0b0f4cd4d7f7c6465b6cdc59333513efb3c6234

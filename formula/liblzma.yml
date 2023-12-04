@@ -1,0 +1,5 @@
+summary: General-purpose data compression with high compression ratio
+webpage: https://tukaani.org/xz
+version: 5.4.5
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/liblzma-5.4.5-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 5c7d7c20527ee75445f08d6f7a5f739d593aa3a6b495408c5743c0fc86d55687

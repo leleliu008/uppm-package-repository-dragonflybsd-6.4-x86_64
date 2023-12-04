@@ -1,0 +1,5 @@
+summary: charset conversion library
+webpage: https://www.gnu.org/software/libiconv
+version: 1.17
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/libiconv-1.17-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: f6bd809ed837296b971dc8d74efadd9722c1ff33da98d1bc5491c1d7b0eb876b

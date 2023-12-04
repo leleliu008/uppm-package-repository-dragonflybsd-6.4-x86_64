@@ -18,7 +18,7 @@ jobs:
           mem: 4096
           box: generic/dragonflybsd6
           run: |
-            PKG_NAMES='bash bison bzip2 coreutils cppcheck curlie curl darkhttpd diffutils dos2unix ed file findutils flex fzf gawk gettext gm4 gmake gnupg git gogs gotty gperf grep gsed gtar gzip hugo jq libarchive lzip lz4 mediainfo mpg123 nasm ninja openssl patchelf patch pkgconf pkg-config putty pigz qpdf re2c rtmpdump sqlite3 svn-lite swig tcpdump tig tmux tree uctags unrar unzip uppm xxd xz yasm yq zopfli zip p7zip zstd zsync base16 base64 sysinfo easyutils'
+            PKG_NAMES='bash bison bzip2 coreutils cppcheck curlie curl darkhttpd diffutils dos2unix ed file findutils flex fzf gawk gettext gettext-tools gm4 gmake gnupg git gogs gotty gperf grep gsed gtar gzip hugo jq libarchive lzip lz4 mediainfo mpg123 nasm ninja openssl patchelf patch pkgconf pkg-config putty pigz qpdf re2c rtmpdump sqlite3 svn-lite swig tcpdump tig tmux tree uctags unrar unzip uppm xxd xz yasm yq zopfli zip p7zip zstd zsync base16 base64 sysinfo easyutils'
 
             export HOME='/home/vagrant'
 
@@ -26,8 +26,6 @@ jobs:
 
             run curl -LO https://raw.githubusercontent.com/leleliu008/ppkg/master/ppkg
             run chmod a+x ppkg
-
-            gsed -i 's|gragonfly|dragonfly|' ppkg
 
             run ./ppkg setup --use-system-package-manager
             run ./ppkg update
@@ -44,17 +42,21 @@ jobs:
 
             install -d formula
 
-            for PACKAGE_NAME in $(./ppkg ls-installed)
+            for PACKAGE_SPEC in $(./ppkg ls-installed)
             do
-              PACKAGE_SUMMARY="$(./ppkg receipt "$PACKAGE_NAME" summary)"
-              PACKAGE_WEB_URL="$(./ppkg receipt "$PACKAGE_NAME" web-url)"
-              PACKAGE_VERSION="$(./ppkg receipt "$PACKAGE_NAME" version)"
+              PACKAGE_SUMMARY="$(./ppkg receipt "$PACKAGE_SPEC" summary)"
+              PACKAGE_VERSION="$(./ppkg receipt "$PACKAGE_SPEC" version)"
+              PACKAGE_WEB_URL="$(./ppkg receipt "$PACKAGE_SPEC" web-url)"
 
-              PACKAGE_BIN_FILENAME="$PACKAGE_NAME-$PACKAGE_VERSION-dragonflybsd-6.4-x86_64.tar.xz"
+              PACKAGE_NAME="${PACKAGE_SPEC##*/}"
 
-              PACKAGE_BIN_SHA=$(~/.uppm/installed/coreutils/bin/sha256sum "$PACKAGE_BIN_FILENAME" | cut -d ' ' -f1)
+              TARGET_PLATFORM="${PACKAGE_SPEC%/*}"
 
-              PACKAGE_BIN_URL="https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/${TAGNAME}/${PACKAGE_BIN_FILENAME}"
+              PACKAGE_BIN_FILENAME="$PACKAGE_NAME-$PACKAGE_VERSION-$TARGET_PLATFORM.tar.xz"
+
+              PACKAGE_BIN_SHA=$(gsha256sum "$PACKAGE_BIN_FILENAME" | cut -d ' ' -f1)
+
+              PACKAGE_BIN_URL="https://github.com/leleliu008/uppm-package-repository-$TARGET_PLATFORM/releases/download/$TAGNAME/$PACKAGE_BIN_FILENAME"
 
               printf '%s\n' "\
             summary: $PACKAGE_SUMMARY

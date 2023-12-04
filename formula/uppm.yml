@@ -1,0 +1,5 @@
+summary: Universal Prebuild Package Manager
+webpage: https://github.com/leleliu008/uppm
+version: 0.16.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/uppm-0.16.0-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 193a26074a8e598315f28534e0ab8c47d5aecf05f145ff758a923c40654ccacd

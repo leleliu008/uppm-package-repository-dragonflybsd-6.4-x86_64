@@ -1,0 +1,5 @@
+summary: Utility to determine file types
+webpage: https://www.darwinsys.com/file
+version: 5.44
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/file-5.44-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 53ea76aba1b1f7778a0cef2177d64cdb5f90def1ad963adaaf312d95116fb93a

@@ -1,0 +1,5 @@
+summary: Terminal multiplexer
+webpage: https://tmux.github.io
+version: 3.3a
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/tmux-3.3a-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 94e34ce941e76758891a9a5a10d9eb1a68ea9f0658a75f547e25f4572238941e

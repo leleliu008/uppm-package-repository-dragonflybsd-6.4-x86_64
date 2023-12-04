@@ -1,0 +1,5 @@
+summary: Extract, view, and test RAR archives
+webpage: https://www.rarlab.com
+version: 6.1.7
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/unrar-6.1.7-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 84b0ee65a48cb959e435bd7c038aa1653459327afe6d70d2d3c07f91ec549a96

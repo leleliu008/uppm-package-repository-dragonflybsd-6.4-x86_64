@@ -1,0 +1,5 @@
+summary: A lightweight and flexible command-line JSON processor
+webpage: https://stedolan.github.io/jq
+version: 1.7
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/jq-1.7-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: a2ef693a1d51b9274a9251fdf03161765410edc553ce63f0c1db15b6c7533d69

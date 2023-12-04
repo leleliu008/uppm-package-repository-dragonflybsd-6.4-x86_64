@@ -1,0 +1,5 @@
+summary: Perfect hash function generator
+webpage: https://www.gnu.org/software/gperf
+version: 3.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/gperf-3.1-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 1fb98e041ddff3949bdcc37fd3a708d764da03e11fb6b2706c83c1217af09da7

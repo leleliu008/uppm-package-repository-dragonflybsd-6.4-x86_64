@@ -1,0 +1,5 @@
+summary: Netwide Assembler (NASM) is an 80x86 assembler
+webpage: https://www.nasm.us
+version: 2.16.01
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/nasm-2.16.01-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 7eb009cb7b12fbd36c4d2aa13d28c8a15f5d6f8d5572d365008e270a32b9a716

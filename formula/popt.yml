@@ -1,0 +1,5 @@
+summary: Library like getopt(3) with a number of enhancements
+webpage: https://github.com/rpm-software-management/popt
+version: 1.19
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/popt-1.19-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 9ade33127ffa921a272e6e9f41d8d47788e40f2f034acd899d8afabcd7d27098

@@ -1,0 +1,5 @@
+summary: C library for encoding, decoding, and manipulating JSON
+webpage: https://digip.org/jansson
+version: 2.14
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/jansson-2.14-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: eebdee7ff7534c5fbc55dde91dbd6d77500c31c452e3e9ab7720717853b30f69

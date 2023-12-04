@@ -1,0 +1,5 @@
+summary: Small static webserver without CGI
+webpage: https://unix4lyfe.org/darkhttpd/
+version: 1.14
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/darkhttpd-1.14-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: b7d541746587ddc9316d133c68468fefc449694626dedc4fcb7353804d43b980

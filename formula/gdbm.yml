@@ -1,0 +1,5 @@
+summary: GNU database manager
+webpage: https://www.gnu.org/software/gdbm
+version: 1.23
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/gdbm-1.23-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 03fe751e918b5b3e59a65fff45b367051a2e4f25a1d13166e7c0766bcc48f9ce

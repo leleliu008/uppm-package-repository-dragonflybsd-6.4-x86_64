@@ -1,0 +1,5 @@
+summary: Perl compatible regular expressions library
+webpage: https://www.pcre.org/
+version: 8.45
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/libpcre-8.45-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: f40ccc74c707aab198fd1eff940d19f146d4ca5aab69d7bea84388901204e686

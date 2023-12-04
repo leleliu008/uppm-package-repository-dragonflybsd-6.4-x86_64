@@ -1,0 +1,5 @@
+summary: A free and easy-to-use client-side URL transfer library
+webpage: https://curl.haxx.se/
+version: 8.2.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/libcurl-8.2.1-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: ae6e5886048e77c19be6a01c527c15e97b44ce9c19cddcda2859054aadf35865

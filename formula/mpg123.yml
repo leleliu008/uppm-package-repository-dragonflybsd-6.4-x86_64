@@ -1,0 +1,5 @@
+summary: MP3 player
+webpage: https://www.mpg123.de/
+version: 1.32.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/mpg123-1.32.3-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: c7800154b858a38d341c4cd5c2d86abddeb989088fbc978bece5c5ceba9fa77e

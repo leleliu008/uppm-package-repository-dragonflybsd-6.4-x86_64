@@ -1,0 +1,5 @@
+summary: BSD tar
+webpage: https://www.libarchive.org/
+version: 3.7.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/bsdtar-3.7.2-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 2446a9f64705fc2a01979ae060cdf6df08785821244cd705651aab86df9ec87a

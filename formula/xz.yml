@@ -1,0 +1,5 @@
+summary: General-purpose data compression with high compression ratio
+webpage: https://tukaani.org/xz
+version: 5.4.5
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/xz-5.4.5-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: ef66658db559fd502586555dd17e24b7f1e1baa44c2a3b5fb102272d070faca1

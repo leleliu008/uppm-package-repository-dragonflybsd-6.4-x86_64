@@ -1,0 +1,5 @@
+summary: a command-line tool for downloading RTMP streaming media
+webpage: https://rtmpdump.mplayerhq.hu
+version: 2.4+20151223
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/rtmpdump-2.4+20151223-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: f85728a9e397d297b2afb8607914cdadae74170435a60750e4b20013f417152f

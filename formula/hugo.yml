@@ -1,0 +1,5 @@
+summary: A fast and flexible static site generator
+webpage: https://gohugo.io
+version: 0.120.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/hugo-0.120.4-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: e7a59aaa39a357040af878b719f25f7e53e96bab6ebbc72f294f788a011e4dce

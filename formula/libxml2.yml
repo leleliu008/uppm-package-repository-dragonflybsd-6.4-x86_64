@@ -1,0 +1,5 @@
+summary: GNOME XML library
+webpage: http://xmlsoft.org
+version: 2.11.5
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/libxml2-2.11.5-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 11a4f4b07ac49a2b8cf99904926a60f9033f96520c2c8f8c3164525c54238cea

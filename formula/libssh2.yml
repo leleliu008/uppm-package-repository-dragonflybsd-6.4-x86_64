@@ -1,0 +1,5 @@
+summary: C library implementing the SSH2 protocol
+webpage: https://libssh2.org/
+version: 1.11.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/libssh2-1.11.0-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 89a49ab268fd393e736992439c489b5665755380c13e6bac79af0658c50b78da

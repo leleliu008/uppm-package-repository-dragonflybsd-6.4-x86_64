@@ -1,0 +1,5 @@
+summary: File comparison utilities
+webpage: https://www.gnu.org/software/diffutils
+version: 3.10
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/diffutils-3.10-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 3f1b7918a6d31471e1189b2261d98d0911cc6dc3faa1c0585d5e332f1ab26379

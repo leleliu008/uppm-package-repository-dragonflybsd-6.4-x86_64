@@ -1,0 +1,5 @@
+summary: Unified display of technical and tag data for audio/video
+webpage: https://mediaarea.net/
+version: 23.10
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/libmediainfo-23.10-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: d7c6a99305a65021ada5136160f32dba72f082f658f3a52003ee978b783d646c

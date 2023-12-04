@@ -1,0 +1,5 @@
+summary: Multi-format archive and compression library
+webpage: https://www.libarchive.org/
+version: 3.7.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/libarchive-3.7.2-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: c9c217daaad437c76ec0475e46f413ab314e5b8c8558e643bf33e1dfeb2fb575

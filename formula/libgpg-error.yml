@@ -1,0 +1,5 @@
+summary: Common error values for all GnuPG components
+webpage: https://www.gnupg.org/related_software/libgpg-error
+version: 1.47
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/libgpg-error-1.47-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 4c274c53288a6c427d71d1eb93335a0b9c9250d1bbb942679f090247ccc17e88

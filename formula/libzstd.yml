@@ -1,0 +1,5 @@
+summary: A real-time compression library
+webpage: https://facebook.github.io/zstd
+version: 1.5.5
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/libzstd-1.5.5-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: d5b404e96f37cf766260f96d9fbfae9610bdb290a994b443e0e41cd22e9b2246

@@ -1,0 +1,5 @@
+summary: Burrows–Wheeler-based data compression utilities with high compression ratio
+webpage: https://sourceware.org/bzip2
+version: 1.0.8
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/bzip2-1.0.8-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 4657b7d6665cbe43c451190726ecee48d9d0b93b9502e25965f2fd66dc580a83

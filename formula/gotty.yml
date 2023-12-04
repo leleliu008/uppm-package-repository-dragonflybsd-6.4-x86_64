@@ -1,0 +1,5 @@
+summary: a simple command-line tool to share your terminal as a web application.
+webpage: https://github.com/sorenisanerd/gotty
+version: 1.5.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/gotty-1.5.0-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: e0473a0981116234536f5d9eece7d0dbd81a6eff7260204eb0f89b266f2f7bbf

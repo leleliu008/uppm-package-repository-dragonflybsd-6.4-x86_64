@@ -1,0 +1,5 @@
+summary: Extremely Fast Compression algorithm
+webpage: http://www.lz4.org/
+version: 1.9.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/lz4-1.9.4-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: fe1d489e764e33ec5014cbdce009ed2d479e7a31170a9aaf654a5a485dab5142

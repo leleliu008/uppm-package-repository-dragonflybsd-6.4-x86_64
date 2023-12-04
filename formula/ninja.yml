@@ -1,0 +1,5 @@
+summary: A small build system with a focus on speed
+webpage: https://ninja-build.org/
+version: 1.11.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/ninja-1.11.1-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 560462dc90ac5f88ad478e7a830856df5d36124d04e8dc5cfd18aa80c18ccfc0

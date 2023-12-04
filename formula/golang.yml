@@ -1,0 +1,5 @@
+summary: Open source programming language to build simple/reliable/efficient software
+webpage: https://go.dev/
+version: 1.21.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/golang-1.21.4-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 6ce19ce8d6ccad207bcc56608df780df1cc644e49160d71fb0da76d423b157d3

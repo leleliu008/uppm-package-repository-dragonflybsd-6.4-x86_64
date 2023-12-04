@@ -1,0 +1,5 @@
+summary: utilities provided by libxml2
+webpage: http://xmlsoft.org
+version: 2.11.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/libxml2-utils-2.11.4-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: db84e6d34552ac3dee274de52ef65475b8b7acfa0c3dec1c349c1f2f8843a293

@@ -1,0 +1,5 @@
+summary: New zlib (gzip, deflate) compatible compressor
+webpage: https://github.com/google/zopfli
+version: 1.0.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/zopfli-1.0.3-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 8d9ba92c60793cf5ac5aba7b9ce257746628e6fff01a7147bb117d07d1f1cbce

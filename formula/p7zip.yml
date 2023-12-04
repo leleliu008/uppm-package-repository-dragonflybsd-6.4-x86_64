@@ -1,0 +1,5 @@
+summary: 7-Zip (high compression file archiver) implementation
+webpage: https://github.com/jinfeihan57/p7zip
+version: 17.05
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/p7zip-17.05-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 9ab0be159fd3517d0cf05147c3c11d13542ba2f02835a2875f6a97c4fc2355de

@@ -1,0 +1,5 @@
+summary: A static analysis tool for C and C++
+webpage: https://sourceforge.net/projects/cppcheck
+version: 2.12.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/cppcheck-2.12.1-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: cecd9c38e7424a8810c1a7b5cc4fe8eb2b2b976e0d4283af98c0846985f3844d

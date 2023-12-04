@@ -1,0 +1,5 @@
+summary: Text interface for Git repositories
+webpage: https://jonas.github.io/tig
+version: 2.5.8
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/tig-2.5.8-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 1aa700ee5efa67cd66bea0ffd3b378211074c0a39c8e50b32a8b7ee0d24a6c9f

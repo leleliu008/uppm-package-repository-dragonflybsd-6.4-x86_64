@@ -1,0 +1,5 @@
+summary: Generate scripting interfaces to C/C++ code
+webpage: https://www.swig.org/
+version: 4.1.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/swig-4.1.1-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: cccb2be1e10a0ae25d705aa13ebc5eb3ee8e7e42ece0b5ca757c97cc2c06c1c7

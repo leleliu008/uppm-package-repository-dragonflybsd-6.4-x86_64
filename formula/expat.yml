@@ -1,0 +1,5 @@
+summary: XML 1.0 parser
+webpage: https://libexpat.github.io
+version: 2.5.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/expat-2.5.0-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 628e9a27a120a366c46b34c9b8253383a4c9bb59938eb9a2bb655d4ab0b7e289

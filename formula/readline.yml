@@ -1,0 +1,5 @@
+summary: Library for command-line editing
+webpage: https://www.gnu.org/software/readline
+version: 8.2.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/readline-8.2.1-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 6e6c3679d89a764973101b4ffef754c4c209dc39d9f526325f1de4dc239b6755

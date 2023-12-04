@@ -1,0 +1,5 @@
+summary: HTTP/2 C Library
+webpage: https://nghttp2.org/
+version: 1.56.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/libnghttp2-1.56.0-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 9b0203a40780cbc436c2ba02ba69332e5ae11597d5e170a2966984d5f2c11218

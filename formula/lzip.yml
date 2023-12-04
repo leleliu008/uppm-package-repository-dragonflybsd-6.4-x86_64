@@ -1,0 +1,5 @@
+summary: LZMA-based compression program similar to gzip or bzip2
+webpage: https://www.nongnu.org/lzip
+version: 1.23
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/lzip-1.23-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 27f0a7c416f6d14590db69be69b57c42345ddfe34d63e24854bfd63c85cec5d5

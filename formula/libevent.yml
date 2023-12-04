@@ -1,0 +1,5 @@
+summary: Asynchronous event library
+webpage: https://libevent.org/
+version: 2.1.12
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/libevent-2.1.12-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 169ff0d5899f97fa42d649cea98d00e694fbe2edf0631506fc8c8758fdf7e590

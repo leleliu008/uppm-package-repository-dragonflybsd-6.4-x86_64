@@ -1,0 +1,5 @@
+summary: File transfer program
+webpage: http://zsync.moria.org.uk/
+version: 0.6.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/zsync-0.6.2-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 8f5a2b295cffb2d9d8e2c7fdf8b7603e17b1cecddc67506829d725a3a0707de9

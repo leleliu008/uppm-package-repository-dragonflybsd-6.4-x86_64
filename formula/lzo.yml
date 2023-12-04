@@ -1,0 +1,5 @@
+summary: Real-time data compression library
+webpage: https://www.oberhumer.com/opensource/lzo
+version: 2.10
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/lzo-2.10-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 106f82d326fca5616f864038037ddf92272096a3db478df5024974462a6cd2e8

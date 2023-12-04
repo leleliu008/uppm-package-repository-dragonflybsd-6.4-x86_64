@@ -1,0 +1,5 @@
+summary: X.509 and CMS library
+webpage: https://www.gnupg.org/related_software/libksba
+version: 1.6.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/libksba-1.6.4-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 3ad575a0c21a9dc40f5cab966b8fb0f880136d237d96d8a5556e0995dafc5274

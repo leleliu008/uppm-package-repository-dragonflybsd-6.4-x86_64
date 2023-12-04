@@ -1,0 +1,5 @@
+summary: GNU multiple precision arithmetic library
+webpage: https://gmplib.org/
+version: 6.3.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/gmp-6.3.0-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 78fd22877bc1c1ac86d1ab6ef73808e0961f64fcd6e16832c5bfc7d7c42e9715

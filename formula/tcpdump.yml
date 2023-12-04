@@ -1,0 +1,5 @@
+summary: a command-line tool to analyze packet(TCP/IP)
+webpage: https://www.tcpdump.org/
+version: 4.99.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/tcpdump-4.99.4-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: aaa58894e30fdb4092fdd37ede7296d410d0014e2bace3a0c7a485e049cacc18

@@ -1,0 +1,5 @@
+summary: A command-line fuzzy finder written in Go
+webpage: https://github.com/junegunn/fzf
+version: 0.43.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/fzf-0.43.0-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 74a23c22c68ec32be4e704cb26ed56aad11df31755636158f3fb6a5cd32f8d6f

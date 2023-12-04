@@ -1,0 +1,5 @@
+summary: Go git service
+webpage: https://gogs.io
+version: 0.12.10
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/gogs-0.12.10-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 9c8392c358e9818ae90227125de7fe3bb013a310738101e3675fc96ac7b193ed

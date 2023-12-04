@@ -1,0 +1,5 @@
+summary: Regular expressions library
+webpage: https://github.com/kkos/oniguruma
+version: 6.9.8
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/oniguruma-6.9.8-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: d3477c7ee28b244aae9aa7f6a6914492dfddf71aad685c4568ad6c5ac69e17d7

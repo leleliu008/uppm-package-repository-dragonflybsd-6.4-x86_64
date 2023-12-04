@@ -1,0 +1,5 @@
+summary: Fast Lexical Analyzer, generates Scanners (tokenizers)
+webpage: https://github.com/westes/flex
+version: 2.6.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/flex-2.6.4-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 130a3b9442d6a40812f5c2c866ad7ebd80da97c9a031452646bfa3eb4de8f191

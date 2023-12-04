@@ -1,0 +1,5 @@
+summary: Cryptography and SSL/TLS Toolkit
+webpage: https://www.openssl.org/
+version: 3.1.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/openssl-3.1.1-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 1ae27a0be7a1c621b7ed96f592cc7ea3195afad39864a9f86c5aa2f1207d85b6

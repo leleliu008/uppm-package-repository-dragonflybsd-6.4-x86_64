@@ -1,0 +1,5 @@
+summary: a command-line tool to get your system information.
+webpage: https://github.com/leleliu008/C-examples
+version: 2023.12.04
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/sysinfo-2023.12.04-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 8af0cc58358cf9b4b6ef5807a4c237d871da9bf0bdc0c5bbc6d18eb999f8b0e1

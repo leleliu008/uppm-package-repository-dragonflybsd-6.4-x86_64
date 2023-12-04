@@ -1,0 +1,5 @@
+summary: A minimalist svn client to checkout/update Subversion repositories.
+webpage: https://github.com/rofl0r/svn-lite
+version: 2023.12.04
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/svn-lite-2023.12.04-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: f0521a2b42c3024383bccee879bd26c8c5c72333f81b9cb3bb0ec015ff80e1d9

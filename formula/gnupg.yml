@@ -1,0 +1,5 @@
+summary: GNU Pretty Good Privacy (PGP) package
+webpage: https://www.gnupg.org
+version: 2.4.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/gnupg-2.4.3-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: f63837d650d4f73449c190b147508cf40a00fb7bf75bbf7b957741405d787503

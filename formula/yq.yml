@@ -1,0 +1,5 @@
+summary: A lightweight and portable command-line YAML processor
+webpage: https://mikefarah.gitbook.io/yq
+version: 4.35.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/yq-4.35.2-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: e99d74b0eda7001e8b2d48c4c338376c8ada34216caf5c7d3169bb695c6fc474

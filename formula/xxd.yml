@@ -1,0 +1,5 @@
+summary: A command-line tool to create a hex dump of a given file or standard input
+webpage: https://www.vim.org/
+version: 9.0.2050
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/xxd-9.0.2050-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: d0031cdf0533991bf0bac8b7b70015d24c169d9990c7750e2813607f2399417c

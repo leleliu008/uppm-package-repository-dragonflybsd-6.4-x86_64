@@ -1,0 +1,5 @@
+summary: Convert text between DOS, UNIX, and Mac formats
+webpage: https://waterlan.home.xs4all.nl/dos2unix.html
+version: 7.5.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/dos2unix-7.5.0-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 00796de1542aec505ef762f5b98f8fd9a648760f62039ce0dbbd06a92187155d

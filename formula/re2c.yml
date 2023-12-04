@@ -1,0 +1,5 @@
+summary: Generate C-based recognizers from regular expressions
+webpage: https://re2c.org/
+version: 3.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/re2c-3.1-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: f5583266c2f2355a0bc83e6a8f68011c6d0e8f6ee9a20a9d0e0a600bf44f6993

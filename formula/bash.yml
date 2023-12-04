@@ -1,0 +1,5 @@
+summary: Bourne-Again SHell, a UNIX command interpreter
+webpage: https://www.gnu.org/software/bash
+version: 5.2.21
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/bash-5.2.21-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 4f2348f85f037e34a7c3a6e7f062a92cb06708746ff8bbe2ff80e16dd026b7cb

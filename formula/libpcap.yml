@@ -1,0 +1,5 @@
+summary: Packet(TCP/IP) Capture libray
+webpage: https://www.tcpdump.org/
+version: 1.10.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/libpcap-1.10.4-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 6e79ce41df4033bc435d43705343ac71cad375ebeb4feb648d2e9366a948abf9

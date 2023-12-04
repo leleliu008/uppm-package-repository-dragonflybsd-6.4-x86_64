@@ -1,0 +1,5 @@
+summary: A command-line tool to help you insert the correct compiler options when compiling objects and/or linking libraries
+webpage: https://freedesktop.org/wiki/Software/pkg-config
+version: 0.29.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/pkg-config-0.29.2-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 14004002da66edcb4bffa9f88fb9696abb2069ad416ab926c65df91bdeaf2f85

@@ -1,0 +1,5 @@
+summary: Clean C library for processing UTF-8 Unicode data
+webpage: https://juliastrings.github.io/utf8proc
+version: 2.8.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/utf8proc-2.8.0-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: f495c93bdf5a1ad8f38671701de326e508be6557e21c07291befefe004d2c417

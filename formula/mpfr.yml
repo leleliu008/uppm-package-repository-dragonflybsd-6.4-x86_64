@@ -1,0 +1,5 @@
+summary: C library for multiple-precision floating-point computations
+webpage: https://www.mpfr.org
+version: 4.2.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/mpfr-4.2.0-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: bb031c092934f471b17e99186646d37dbe2741952aa3fc04173894aefc359176

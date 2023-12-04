@@ -1,0 +1,5 @@
+summary: A parallel implementation of gzip for modern multi-processor, multi-core machines
+webpage: https://zlib.net/pigz/
+version: 2.8
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/pigz-2.8-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: a4fb6d4dab784b77b2712f92aaf407b56bcadf3b28f5b97ecf9a0caeb6bbab9f

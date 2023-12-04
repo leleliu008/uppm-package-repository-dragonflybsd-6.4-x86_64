@@ -1,0 +1,5 @@
+summary: Reimplementation of pkg-config
+webpage: http://pkgconf.org
+version: 2.0.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/pkgconf-2.0.3-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 95d6cb23459c04e6798ccb77f5371dff3887182118492543fd2cd8e01a729d3f

@@ -1,0 +1,5 @@
+summary: Extremely fast non-cryptographic hash algorithm
+webpage: https://github.com/Cyan4973/xxHash
+version: 0.8.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/xxhash-0.8.2-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 21b9b2990203867827bff2532db8b588ff34fa25b72f0a2bc85017dbb107b0b7

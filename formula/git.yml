@@ -1,0 +1,5 @@
+summary: Distributed revision control system
+webpage: https://git-scm.com/
+version: 2.42.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/git-2.42.1-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 23eba2aa3cd7a48f5c24bacc29e107a8489dcf8263d8766f371f36478541ef5a

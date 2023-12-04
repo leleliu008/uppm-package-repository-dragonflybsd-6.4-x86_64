@@ -1,0 +1,5 @@
+summary: Apply a diff file to an original
+webpage: https://savannah.gnu.org/projects/patch
+version: 2.7.6
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/patch-2.7.6-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 5612ac86176f17360fdece97ed1bec6d0868cf87e3d88722a48a87df0a71586a

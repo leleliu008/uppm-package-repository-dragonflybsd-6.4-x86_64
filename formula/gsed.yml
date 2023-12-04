@@ -1,0 +1,5 @@
+summary: GNU implementation of the famous stream editor
+webpage: https://www.gnu.org/software/sed
+version: 4.9
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/gsed-4.9-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 64a235b6db81e5fcb8ba4da195c29f63a07800485e826d74f0b4f310bd8dbf35

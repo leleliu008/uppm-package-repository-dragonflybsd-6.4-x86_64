@@ -1,0 +1,5 @@
+summary: Official documentation format of the GNU project
+webpage: https://www.gnu.org/software/texinfo
+version: 7.0.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/texinfo-7.0.3-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: c1616a023cee68f93b5b9f26c7d5cd5b875881d622f8b96ca9a3dcd212bd4064

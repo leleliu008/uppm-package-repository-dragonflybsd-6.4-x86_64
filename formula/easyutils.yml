@@ -1,0 +1,5 @@
+summary: a collections of easy to use command-line utilities
+webpage: https://github.com/leleliu008/C-examples
+version: 2023.12.04
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/easyutils-2023.12.04-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: e04caab1a23b89d0b4da755db0522c892fab9a7e8c92b5dfe552c174c350231e
