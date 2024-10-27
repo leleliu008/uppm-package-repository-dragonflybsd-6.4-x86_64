@@ -1,0 +1,5 @@
+summary: A modern diagram scripting language that turns text to diagrams
+webpage: https://github.com/terrastruct/d2
+version: 0.6.6
+bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/d2-0.6.6-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: 9c830ede62a391385ef8f9afff8dc93032f2485702c2885365f93d0e2a62bdb9
