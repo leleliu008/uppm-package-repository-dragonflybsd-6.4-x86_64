@@ -2,4 +2,4 @@ summary: Cross-platform make
 webpage: https://www.cmake.org/
 version: 3.30.3
 bin-url: https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64/releases/download/2023.12.04/cmake-3.30.3-dragonflybsd-6.4-x86_64.tar.xz
-bin-sha: 147d4e718e65116ff91ee76ca782bab80613f4bf8ce53131f6719d579cf6e464
+bin-sha: abbd0979daae1aa78199d7e25647ef250e7ce5e8228da1a62c333598fa61c395
