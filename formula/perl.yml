@@ -1,0 +1,5 @@
+summary: perl runtime
+webpage: https://www.perl.org/
+version: 5.40.0
+bin-url: https://github.com/leleliu008/perl-distribution/releases/download/5.40.0/perl-5.40.0-dragonflybsd-6.4-x86_64.tar.xz
+bin-sha: a5d639b4e8ac2b7e51661340d8a7f6c1b19589481beb00100d0aa3ad1c3c015a
