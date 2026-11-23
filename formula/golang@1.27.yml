@@ -1,5 +1,5 @@
 summary: Open source programming language to build simple/reliable/efficient software
 webpage: https://go.dev/
-bin-url: https://go.dev/dl/go1.27.2.dragonfly-amd64.tar.gz
-bin-sha: c9827ed9d91477541c18de54bc0ad3776d4a506aac629d3878113316da5bca4e
-version: 1.27.2
+bin-url: https://go.dev/dl/go1.27.4.dragonfly-amd64.tar.gz
+bin-sha: 0d8ba3b49cd49bc2b482512647d851aa157a2d2924ecf6c371185de8e5ec5a06
+version: 1.27.4
